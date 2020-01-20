@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+npm-debug.log
+README.md
+README_EN.md
